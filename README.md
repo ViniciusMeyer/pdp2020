@@ -1,6 +1,6 @@
 # Towards an Interference-Aware Application Classifier Under Dynamic Workloads
 
-Submitted to **28th Euromicro International Conference on Parallel, Distributed, and Network-Based Processing (PDP)**
+Submitted to **28th Euromicro International Conference on Parallel, Distributed, and Network-Based Processing (PDP2020)**
 
 http://www.pdp2020.com
 
