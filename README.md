@@ -4,7 +4,7 @@ Submitted to **28th Euromicro International Conference on Parallel, Distributed,
 
 http://www.pdp2020.com
 
-Here, you will find all used codes and results from the published paper.</br>
+Here, you will find all used codes and results from the submitted paper.</br>
 
 Authors: Vinícius Meyer, Dionatra F. Kirchoff, Matheus L. da Silva and Cesar A. F. De Rose</br> 
 Pontifical Catholic University of Rio Grande do Sul (PUCRS), Porto Alegre, Brazil</br>
