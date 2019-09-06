@@ -1,4 +1,4 @@
-# Towards an Interference-Aware Application Classifier Under Dynamic Workloads
+# An Interference-Aware Application Classifier Basedon Machine Learning to Improve Scheduling inClouds
 
 Submitted to **28th Euromicro International Conference on Parallel, Distributed, and Network-Based Processing (PDP2020)**
 
