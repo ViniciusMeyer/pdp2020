@@ -6,5 +6,12 @@ http://www.pdp2020.com
 
 Here, you will find all used codes and results from the submitted paper.</br>
 
+
+Vinıcius Meyer, Dionatra F. Kirchoff, Matheus L. da Silva and C ́esar A. F. De Rosed
+Polytechnic School, Pontifical Catholic University of Rio Grande do Sul (PUCRS)- Porto Alegre, Brazil
+
 Reference: to appear
+
+If you have any question please do not exitate to contact us through vinicius.meyer@edu.pucrs.br</br>
+
 
