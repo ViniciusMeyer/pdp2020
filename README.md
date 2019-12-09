@@ -7,7 +7,7 @@ http://www.pdp2020.com
 Here, you will find all used codes and results from the submitted paper.</br>
 
 
-Authors: Vinıcius Meyer, Dionatra F. Kirchoff, Matheus L. da Silva and C ́esar A. F. De Rose</br> 
+Authors: Vinícius Meyer, Dionatrã F. Kirchoff, Matheus L. da Silva and César A. F. De Rose</br> 
 Polytechnic School, Pontifical Catholic University of Rio Grande do Sul (PUCRS)- Porto Alegre, Brazil</br> 
 
 Reference: to appear</br> 
